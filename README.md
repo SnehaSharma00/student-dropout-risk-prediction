@@ -40,13 +40,13 @@ The project is built with a MERN stack and is designed to seamlessly integrate a
 
 ## ✨ Key Features
 
-🔐 Authentication (Admin / Faculty)
+### 🔐 Authentication (Admin / Faculty)
 
-📊 Dashboard with risk analytics
+### 📊 Dashboard with risk analytics
 
-🧑‍🎓 Student management system
+### 🧑‍🎓 Student management system
 
-🤖 AI-based dropout risk prediction
+### 🤖 AI-based dropout risk prediction
 
 📝 Prediction history logging
 
